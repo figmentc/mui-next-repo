@@ -6,7 +6,7 @@
     "@material-ui/core": "latest",
     "@material-ui/icons": "^4.9.1",
     "clsx": "latest",
-    "next": "9.4.5-canary.7",
+    "next": "11.1.0",
     "react": "latest",
     "react-dom": "latest",
     "styled-components": "^5.1.1"
